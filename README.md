@@ -5,7 +5,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Dataset](Dataset)
-* [CNN Architecure](CNN-Architecture) 
+* [CNN Architecture](CNN-Architecture) 
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
